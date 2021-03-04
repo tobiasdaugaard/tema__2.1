@@ -31,3 +31,99 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+
+
+// normal css til table
+
+/*
+.table-wrapper{
+	display: flex;
+	font-family: Arial;
+	justify-content: center;
+
+	white-space: nowrap;
+}
+
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0.5rem;
+	max-width: 100%;
+	display:block;
+}
+
+
+th{
+	color: grey;
+	font-size: 90%;
+	border-bottom: 1px solid #ddd;
+	padding: 10px 25px 10px 25px;
+	text-align: center;
+
+}
+
+td{
+	font-size: 200%;
+	border-top: 1px solid #ddd;
+	padding: 10px 25px 10px 25px;
+	text-align: center;
+
+}
+
+
+.københavn, .århus{
+	text-align: left;
+	padding: 10px 200px 10px 0;
+}
+
+.hjerte{
+	padding: 10px 10px 10px 25px;
+}
+
+.last{
+	padding: 10px 350px 10px 25px;
+}
+
+#clickableAwesomeFont {
+	cursor: pointer
+}
+
+.fas:hover{
+	color:yellow;
+}
+
+*/
+
+
+
+//normal css til vejrkortet
+/*
+.vejrkort{
+    display: flex;
+    flex-direction: column;
+    font-family: Arial;
+
+
+}
+
+.billede{
+	padding:0 19vw 0 19vw;
+	align-items: center;
+	width: auto;
+}
+
+.vejrkort-text{
+	padding:6vh 19vw 0 19vw;
+	display:block;
+}
+
+.overskrift{
+	font-weight: normal;
+	font-size: 40px;
+}
+
+.brødtext{
+	font-size: 35px;
+}
+ */

@@ -34,6 +34,52 @@
 
 <br>
 
+
+<!-- table before
+<div class="table-wrapper">
+    <table class="table">
+        <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>Maks/min temp.</th>
+            <th>Nedbør</th>
+            <th>Vind</th>
+            <th>UV stråler</th>
+            <th></th>
+        </tr>
+        </thead>
+        <thead>
+        <tbody>
+        <tr>
+            <td class="hjerte"><span id='clickableAwesomeFont'><i class="fas fa-heart" style="font-size: 80%;"></span></td>
+
+            <td class="københavn">København</td>
+            <td class="sky"><i class="fas fa-cloud" style="font-size: 80%;"></i></td>
+            <td>10°/7°</td>
+            <td>0 mm</td>
+            <td>3 m/s</td>
+            <td>UV max 1</td>
+            <td class="last"></td>
+        </tr>
+        <tr>
+            <td class="hjerte"><i class="fas fa-heart" style="font-size: 80%;" id="toggleImage2"></td>
+            <td class="århus">Århus</td>
+            <td class="sky"><i class="fas fa-cloud" style="font-size: 80%;"></i></td>
+            <td>8°/7°</td>
+            <td>0 mm</td>
+            <td>2 m/s</td>
+            <td>UV max 1</td>
+            <td class="last"></td>
+        </tr>
+        </tbody>
+        </thead>
+    </table>
+</div>
+-->
+
+<!-- table after -->
 <div class="container">
     <table class="table table-hover">
         <tbody>
@@ -64,6 +110,28 @@
 
 <br>
 
+
+<!-- før vejrkort -->
+<!--
+<div class="vejrkort mx-auto w-75">
+
+    <div class="vejrkort-text">
+        <h1 class="overskrift">Vejrkort og radar</h1>
+        <br>
+        <p class="brødtext">
+            Her finder du vejr, radar og lyn, lufttryk og nedbør, vind, vandstand, havtemperatur, strøm, <br>
+            bølger, glatføre samt satellit. Læs mere om Vejrkortet og de forskellige lag her.
+        </p>
+    </div>
+
+    <div class="billede">
+        <img src="images/vejrkort.jpg " alt="">
+    </div>
+
+</div>
+-->
+
+<!-- efter vejrkort -->
 <div class="container">
     <div class="vejrkort mx-auto w-100">
 
